@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+Narwhals
+joblib
+threadpoolctl (>= 3.5.0)
+imbalanced-learn
+seaborn

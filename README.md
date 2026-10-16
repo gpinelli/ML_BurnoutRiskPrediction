@@ -68,8 +68,6 @@ The dataset describes the use of Generative AI tools by university students and 
  
 Main libraries: `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `scikit-learn`, `imbalanced-learn`.
  
-The nested cross-validation step fits many models and may take a while; it uses `n_jobs=-1`. All random processes use `random_state = 96`.
- 
 ## Notes
  
 The dataset belongs to its original authors: please refer to the Kaggle page for its license and terms of use.
